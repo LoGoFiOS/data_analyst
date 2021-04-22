@@ -20,11 +20,15 @@
 
   Хорошо сочетается с [курсом](https://stepik.org/course/76) и книгой Савельева. 
 
-- ["Статистика и котики"](https://www.litres.ru/vladimir-savelev-10569666/statistika-i-kotiki-28731109/?utm_medium=cpc&utm_source=google&utm_campaign=smart_shopping%7C6451100394&utm_term=&utm_content=k50id%7Cpla-573894664472%7Ccid%7C6451100394%7Caid%7C378012483274%7Cgid%7C85593335428%7Cpos%7C%7Csrc%7Cu_%7Cdvc%7Cc%7Creg%7C9047026%7Crin%7C%7C&k50id=85593335428%7Cpla-573894664472&gclid=CjwKCAjwjuqDBhAGEiwAdX2cj2tJ_x4pCdalxQkQJzUExjNx7wSf4GEUaUySpx7g_fWNEASh0Ye9YhoCjTcQAvD_BwE), В. Савельев. Хоть и выглядит "несурьёзно", но зато очень кратко и наглядно даёт информацию по основам статистики. Опять-таки, хорошее дополнение к [курсу](https://stepik.org/course/76)
+- ["Статистика и котики"](https://www.litres.ru/vladimir-savelev-10569666/statistika-i-kotiki-28731109/?utm_medium=cpc&utm_source=google&utm_campaign=smart_shopping%7C6451100394&utm_term=&utm_content=k50id%7Cpla-573894664472%7Ccid%7C6451100394%7Caid%7C378012483274%7Cgid%7C85593335428%7Cpos%7C%7Csrc%7Cu_%7Cdvc%7Cc%7Creg%7C9047026%7Crin%7C%7C&k50id=85593335428%7Cpla-573894664472&gclid=CjwKCAjwjuqDBhAGEiwAdX2cj2tJ_x4pCdalxQkQJzUExjNx7wSf4GEUaUySpx7g_fWNEASh0Ye9YhoCjTcQAvD_BwE) Хоть и выглядит "несурьёзно", но зато очень кратко и наглядно даёт информацию по основам статистики. Опять-таки, хорошее дополнение к [курсу](https://stepik.org/course/76)
 
-- [Python и анализ данных](https://www.ozon.ru/product/python-i-analiz-dannyh-makkini-ues-217051463/?asb=x8CRenbt3vdjGNF3zHmrquRU5mwFuCP%252BGgvSAL8YY3U%253D&tab=reviews)
+- ["Python и анализ данных"](https://www.ozon.ru/product/python-i-analiz-dannyh-makkini-ues-217051463/?asb=x8CRenbt3vdjGNF3zHmrquRU5mwFuCP%252BGgvSAL8YY3U%253D&tab=reviews)
 
   Не читал, но судя по содержанию в ней всё, что нужно для начинающего аналитика.
+  
+  ["Python для сложных задач. Наука о данных и машинное обучение"](https://www.ozon.ru/product/python-dlya-slozhnyh-zadach-nauka-o-dannyh-i-mashinnoe-obuchenie-vander-plas-dzh-vander-plas-dzh-211433316/)
+  
+  Ещё одна книга из серии "вроде бы то, что нужно".
 
 ### 2. Курсы для прокачки:
 
@@ -47,5 +51,6 @@
 * [Собеседование на позицию стажера в Яндекс на аналитика данных](https://habr.com/ru/post/546004/)
 * [Про машинное обучение простыми словами](https://vas3k.ru/blog/machine_learning/)
 * [Тест на логику](https://testometrika.com/intellectual/test-of-logical-thinking/)
+* [MathJax. Basic tutorial](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 
 ## 
